@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <router-link :to="{ name: 'Create' }">Create</router-link>
     <h1>Home</h1>
     <div v-if="error">{{ error }}</div>
     <div v-if="posts.length">
@@ -30,3 +31,10 @@ export default {
   },
 };
 </script>
+<style>
+.home {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 10px;
+}
+</style>
