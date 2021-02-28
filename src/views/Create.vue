@@ -45,9 +45,8 @@ export default {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(post),
       });
+      router.push({ name: "Home" });
     };
-
-    router.push({ name: "Home" });
 
     return { title, body, tag, tags, handleKeydown, handleSubmit };
   },
