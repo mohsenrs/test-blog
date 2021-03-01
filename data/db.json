@@ -4,75 +4,25 @@
       "id": 1,
       "title": "welcome to the new blog",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum,Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "tags": [
-        "webdev",
-        "coding",
-        "news"
-      ]
+      "tags": ["webdev", "coding", "news"]
     },
     {
       "id": 2,
       "title": "top 5 css tips",
       "body": "Lorem ipsum dolor sit amet",
-      "tags": [
-        "css",
-        "coding",
-        "news"
-      ]
+      "tags": ["css", "coding", "news"]
     },
     {
       "title": "szdgvsd",
       "body": "sgvdsfvs",
-      "tags": [
-        "sdf",
-        "sdv"
-      ],
+      "tags": ["sdf", "sdv"],
       "id": 3
     },
     {
       "title": "fgde",
       "body": "dgtegedr",
-      "tags": [
-        "gredrtg",
-        "fdujhyt"
-      ],
+      "tags": ["gredrtg", "fdujhyt"],
       "id": 4
-    },
-    {
-      "title": "fgde",
-      "body": "dgtegedr",
-      "tags": [
-        "gredrtg",
-        "fdujhyt"
-      ],
-      "id": 5
-    },
-    {
-      "title": "fgde",
-      "body": "dgtegedr",
-      "tags": [
-        "gredrtg",
-        "fdujhyt"
-      ],
-      "id": 6
-    },
-    {
-      "title": "fgde",
-      "body": "dgtegedr",
-      "tags": [
-        "gredrtg",
-        "fdujhyt"
-      ],
-      "id": 7
-    },
-    {
-      "title": "dfged",
-      "body": "fdsgedg",
-      "tags": [
-        "zdyhtrg",
-        "hvkhvygol"
-      ],
-      "id": 8
     }
   ]
 }

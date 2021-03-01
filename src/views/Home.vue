@@ -4,6 +4,7 @@
     <div v-if="error">{{ error }}</div>
     <div v-if="posts.length">
       <PostList :posts="posts" />
+      <TagCloud :posts="posts" />
     </div>
     <div v-else>
       <Spinner />
@@ -15,12 +16,13 @@
 
 <script>
 import PostList from "../components/PostList";
+import TagCloud from "../components/TagCloud";
 import getPosts from "../composables/getPosts";
 import Spinner from "../components/Spinner";
 
 export default {
   name: "Home",
-  components: { PostList, Spinner },
+  components: { PostList, Spinner, TagCloud },
   setup() {
     const { posts, error, load } = getPosts();
 
